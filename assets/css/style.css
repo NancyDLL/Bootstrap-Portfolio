@@ -54,7 +54,6 @@ body {
 }
 .container {
   width: 100%;
-  max-width: 960px;
   clear: both;
 }
 #logo {
@@ -101,7 +100,6 @@ nav a:first-child {
 .main-section {
   float: left;
   width: 100%;
-  max-width: 650px;
   padding: 30px;
   margin: 0 0 30px;
   background: #fff;
@@ -184,7 +182,6 @@ input[type=submit] {
 .sidebar {
   float: right;
   width: 100%;
-  max-width: 270px;
   padding: 30px;
   margin-bottom: 20px;
   background: #fff;
