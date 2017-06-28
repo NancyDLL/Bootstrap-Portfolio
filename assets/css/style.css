@@ -116,11 +116,9 @@ nav a:first-child {
 
 /*** 6.0 PORTFOLIO ***/
 .work {
+  width: 100%;
   position: relative;
-  float: left;
-  width: 274px;
   margin: 20px 0 25px;
-  overflow: auto;
 }
 .work:nth-child(even) {
   margin-right: 40px;
@@ -198,7 +196,7 @@ h3,
   width: 62px;
   height: 62px;
   margin-top: 8px;
-  margin-right: 5px;
+  margin-left: 5px;
 }
 .social:last-child {
   margin-right: 0;
